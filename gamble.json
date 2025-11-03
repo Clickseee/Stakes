@@ -1,0 +1,15 @@
+{
+	"id": "stakes",
+	"name": "Stake: Gamble Responsibly",
+	"display_name": "Stake",
+	"author": ["Nxkoo"],
+	"description": "A mod for degenerate gamblers like you",
+	"prefix": "stk",
+	"main_file": "responsibly.lua",
+	"priority": 0,
+	"badge_colour": "020403",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-0808a)"
+	]
+}
